@@ -1,7 +1,7 @@
 📊 Python & NumPy Minor Project (Google Colab)
 📌 Project Overview
 
-This repository contains my Minor Project implemented using Python and NumPy, developed and executed entirely on Google Colab.
+This repository contains my Mini or Minor Project implemented using Python and NumPy, developed and executed entirely on Google Colab.
 The objective of this project is to strengthen my understanding of Python fundamentals, NumPy array operations, and basic problem-solving logic by building a complete, working program from scratch.
 
 This project strictly follows academic guidelines and uses only concepts covered in class. No advanced libraries or frameworks are used.
